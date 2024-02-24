@@ -12,5 +12,6 @@ public class Hello {
         System.out.println("hello1");
         System.out.println("hello2");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
